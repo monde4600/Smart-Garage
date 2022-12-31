@@ -1,0 +1,3 @@
+../Inc/MCAL/RCC/RCC_prog.c:12:6:MRCC_vInitSystemCLK	0	static
+../Inc/MCAL/RCC/RCC_prog.c:60:6:MRCC_vEnableClock	0	static
+../Inc/MCAL/RCC/RCC_prog.c:72:6:MRCC_vDisableClock	0	static

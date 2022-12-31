@@ -1,0 +1,5 @@
+../Inc/HALL/TFT/TFT_Prog.c:19:13:HTFT_Void_SendCommand	16	static
+../Inc/HALL/TFT/TFT_Prog.c:26:13:HTFT_Void_SendData	16	static
+../Inc/HALL/TFT/TFT_Prog.c:34:6:HTFT_void_Init	8	static
+../Inc/HALL/TFT/TFT_Prog.c:76:6:HTFT_void_DisplayImage	24	static
+../Inc/HALL/TFT/TFT_Prog.c:109:6:HTFT_void_DisplayLine	48	static

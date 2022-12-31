@@ -1,0 +1,2 @@
+../Inc/LIB/02_Delay/Delay_Program.c:42:13:Delay_vMsIn16MHz	24	static
+../Inc/LIB/02_Delay/Delay_Program.c:62:13:Delay_vUsIn16MHzint	24	static

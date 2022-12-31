@@ -1,0 +1,9 @@
+../Inc/MCAL/GPIO/GPIO_prog.c:12:6:MGPIO_vSetPinMode	8	static
+../Inc/MCAL/GPIO/GPIO_prog.c:18:6:MGPIO_vSetPinOutPutType	8	static
+../Inc/MCAL/GPIO/GPIO_prog.c:24:6:MGPIO_vSetPinOutSpeed	8	static
+../Inc/MCAL/GPIO/GPIO_prog.c:29:6:MGPIO_vSetPullType	8	static
+../Inc/MCAL/GPIO/GPIO_prog.c:35:18:MGPIO_enuReadData	0	static
+../Inc/MCAL/GPIO/GPIO_prog.c:40:6:MGPIO_vWriteData	0	static
+../Inc/MCAL/GPIO/GPIO_prog.c:47:6:MGPIO_vWriteDataDIR	0	static
+../Inc/MCAL/GPIO/GPIO_prog.c:52:6:MGPIO_vPinLock	0	static
+../Inc/MCAL/GPIO/GPIO_prog.c:61:6:MGPIO_vSetPinAltFn	8	static

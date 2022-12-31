@@ -1,0 +1,2 @@
+../Inc/MCAL/SPI/SPI_prog.c:16:6:SPI_vInit	0	static
+../Inc/MCAL/SPI/SPI_prog.c:100:4:SPI_u8SendRecive	0	static
